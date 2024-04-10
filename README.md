@@ -13,13 +13,6 @@
     </ul>
 </details>
 
-<details>  
-<summary>💻 Currently a Data Science Consultant</summary>
-    <ul>
-<li>Working on a contract in the Healthcare Space</li>
-    </ul>
-</details>
-
 <details>
 <summary>🎓 Education </summary>
     <ul>
