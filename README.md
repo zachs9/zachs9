@@ -25,7 +25,7 @@
 <hr>
 
 #### 💬 Let's get in touch!
-<b><a href='https://www.linkedin.com/in/zach-segal/' target='_blank'>LinkedIn</a></b> | <b><a href='https://docs.google.com/document/d/1EP9hFwoqt-u_dUapv-7okl4Scu9jEUJ99wV2jy2_UA4/' target='_blank'>Resume</a></b> 
+<b><a href='https://www.linkedin.com/in/zach-segal/' target='_blank'>LinkedIn</a></b> 
 <br><br>
 <hr>
 <!-- Tech Stack -->  
